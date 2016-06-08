@@ -1,0 +1,15 @@
+[I] Pan-Tompkins QRS detection algorithm.
+[I] QRS detection start.
+[I] Mean value: consumed 0 ms
+[I] Remove mean: consumed 0 ms
+[I] Differentiate: consumed 14 ms
+[I] Square: consumed 0 ms
+[I] Box filter: consumed 7 ms
+[I] Median filter: consumed 164 ms
+[I] Integrate: consumed 171 ms
+[I] Segment: consumed 0 ms
+[I] Treshold: consumed 0 ms
+[I] Indices: consumed 0 ms
+[I] Find peaks: consumed 0 ms
+[I] Total time: consumed 189 ms
+[I] QRS detection done.
